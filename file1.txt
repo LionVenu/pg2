@@ -1,0 +1,5 @@
+RAT
+MAT
+SAT
+CAT
+PIN
